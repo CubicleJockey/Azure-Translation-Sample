@@ -5,9 +5,9 @@ namespace Azure.Translation.Samples
     [TestClass]
     public class Playground
     {
-        [TestMethod]
-        public void TestMethod1()
+        public Playground()
         {
+            
         }
     }
 }
