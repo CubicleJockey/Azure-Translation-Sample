@@ -1,0 +1,8 @@
+﻿namespace Azure.Translation.Samples.Azure.Responses
+{
+    public class DetectedLanguage
+    {
+        public string Language { get; set; }
+        public float Score { get; set; }
+    }
+}
